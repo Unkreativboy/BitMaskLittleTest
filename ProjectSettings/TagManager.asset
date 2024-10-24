@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - KEY1
+  - KEY2
+  - KEY3
+  - KEY4
+  - KEYDOOR1
+  - KEYDOOR2
+  - KEYDOOR3
   layers:
   - Default
   - TransparentFX
